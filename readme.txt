@@ -4,3 +4,4 @@ Git is a mutable index called stage.
 
 Creating a new branch is quick ok!!
 Creating a new branch is quick AND simple
+Git is a free software
